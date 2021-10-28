@@ -1,0 +1,5 @@
+Mam koleżankę, która jest doświadczoną programistką Javy oraz Scali.
+Kilkanaście razy w roku występuje na międzynarodowych konferencjach. 
+Z opisu łatwo wydedukować, że na co dzień nie potrzebuje mojej ekspertyzy technicznej?
+Jednak kilka dni temu poprosiła mnie o pilne wsparcie. 
+Napisała, że do tej pory traktowała NLP (przetwarzanie języka naturalnego, ang. natural language processing) jako "coś", z czego ludzie robią doktoraty”, a teraz musi sama poprawić kod z tej dziedziny.
